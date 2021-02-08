@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CruiseShip
+comment1.params=
+comment1.target=CruiseShip()
+comment2.params=name\ year\ maxPassengers
+comment2.target=CruiseShip(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getMaxPassengers()
+comment4.params=maxPassengers
+comment4.target=void\ setMaxPassengers(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Appointment
+comment0.text=\n\ Michael\ Reece\n\ 177000762\n
+comment1.params=
+comment1.target=Appointment()
+comment2.params=description
+comment2.target=void\ setType(java.lang.String)
+comment3.params=reason
+comment3.target=void\ setAppointment(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=month\ day\ year
+comment5.target=boolean\ occursOn(int,\ int,\ int)
+numComments=6
